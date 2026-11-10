@@ -1,5 +1,7 @@
 # DADDY — знакомства в Telegram
 
+**[English-only page](README.en.md)**
+
 DADDY — Telegram-бот для знакомств и общения 18+. Создайте анкету, посмотрите объявления в своём городе или найдите собеседника в быстром анонимном чате по интересам.
 
 **[Открыть DADDY в Telegram](https://t.me/region_love_bot)** · `@region_love_bot`
